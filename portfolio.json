@@ -1,0 +1,15 @@
+{
+    "title": {
+      "es": "EventFlow-Api",
+      "en": "EventFlow-Api"
+    },
+    "description": {
+      "es": "API en Spring Boot para gestionar eventos, sesiones e inscripciones, con check-in por código QR y reserva de plazas 
+  diseñada para no sobrevender. En desarrollo.",
+      "en": "Spring Boot API to manage events, sessions and registrations, with QR check-in and seat booking designed to never 
+  oversell. Work in progress."
+    },
+    "stack": ["Java", "Spring Boot", "PostgreSQL"],
+    "featured": false,
+    "order": 2
+  }
