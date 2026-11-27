@@ -8,7 +8,7 @@ Backend for managing conferences and fairs: events, sessions, registrations with
 
 EventFlow is based on a software project scope for a mobile event management app (MoSCoW prioritization, sprints). Here the same domain is rebuilt as a backend service, to practice Spring Boot, JPA/Hibernate, Spring Security with JWT, tests and Docker.
 
-## Domains
+## Domain
 
 - **User**: a participant or an organizer.
 - **Event**: a conference or fair, with start and end dates, location and status.
